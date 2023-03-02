@@ -1,0 +1,5 @@
+../Core/Src/ADXL345_i2c.c:17:6:Scan_I2C_Address	8	static
+../Core/Src/ADXL345_i2c.c:29:6:ADXL_Write	32	static
+../Core/Src/ADXL345_i2c.c:37:6:ADXL_Read	32	static
+../Core/Src/ADXL345_i2c.c:48:6:ADXL_Init	8	static
+../Core/Src/ADXL345_i2c.c:64:6:values	24	static
